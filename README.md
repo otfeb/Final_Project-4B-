@@ -140,7 +140,7 @@
 - 인기 검색어(조회수 기준 20위)
 ![인기검색어](https://github.com/ruky1/Final_Project/assets/45508671/0bd2556f-9d71-40ba-b955-3f3093f3da16)
 
-- 비회원 검색기(최근 검색 저장X)
+- 비회원 검색기능(최근 검색 저장X)
 ![비회원 검색](https://github.com/ruky1/Final_Project/assets/45508671/c1ebb683-6a29-4e9f-bbb0-65040cc7c7dd)
 
 - 마이페이지
